@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delete Ex"
+  short_description: "Delete a generated ex-partner skill"
+  default_prompt: "Delete the requested generated ex-partner Codex skill and confirm which files were removed."

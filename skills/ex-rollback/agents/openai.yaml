@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ex Rollback"
+  short_description: "Restore a previous ex-partner skill version"
+  default_prompt: "Roll a generated ex-partner Codex skill back to a previous version and confirm the restored runtime skills."

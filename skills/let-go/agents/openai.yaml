@@ -1,0 +1,4 @@
+interface:
+  display_name: "Let Go"
+  short_description: "Gently delete a generated ex skill"
+  default_prompt: "Delete the requested generated ex-partner Codex skill and reply in a gentle, closure-oriented tone."

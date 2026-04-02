@@ -1,0 +1,4 @@
+interface:
+  display_name: "List Exes"
+  short_description: "List generated ex-partner skills"
+  default_prompt: "List all generated ex-partner Codex skills and summarize their current metadata."

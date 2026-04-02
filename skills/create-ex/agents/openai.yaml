@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Ex"
+  short_description: "Create and evolve ex-partner skills"
+  default_prompt: "Create or update an ex-partner Codex skill from local memories, chats, or photos, then render the generated runtime skills."
